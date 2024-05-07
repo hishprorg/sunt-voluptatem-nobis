@@ -1,13 +1,13 @@
 {
   "name": "@hishprorg/sunt-voluptatem-nobis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "nareshkumarjaggi",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
     "@hishprorg/aliquid-ad-vero": "^1.0.0",
     "@hishprorg/cum-rem-consequuntur": "^1.0.0",
     "@hishprorg/eius-vero-dicta": "^1.0.0",
